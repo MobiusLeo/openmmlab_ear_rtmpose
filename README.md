@@ -1,0 +1,2 @@
+# openmmlab_ear_rtmpose
+利用openmmlab_mmpose训练测试耳朵穴位
